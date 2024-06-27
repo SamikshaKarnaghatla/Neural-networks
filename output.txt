@@ -1,0 +1,108 @@
+Twinkle, twinkle, little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+When the blazing sun is gone,
+When he nothing shines upon,
+Then you show your little light,
+Twinkle, twinkle, all the night.
+
+Then the traveller in the dark,
+Thanks you for your tiny spark,
+He could not see which way to go,
+If you did not twinkle so.
+
+In the dark blue sky you keep,
+And often through my curtains peep,
+For you never shut your eye,
+Till the sun is in the sky.
+
+As your bright and tiny spark,
+Lights the traveller in the dark.
+Though I know not what you are,
+Twinkle, twinkle, little star.
+
+Twinkle, twinkle, little star.
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+Twinkle, twinkle, little star.
+How I wonder what you are.
+How I wonder what you are.
+Word_Count:
+twinkle,: 10
+little: 5
+star,: 1
+how: 4
+i: 5
+wonder: 4
+what: 5
+you: 10
+are.: 4
+up: 2
+above: 2
+the: 13
+world: 2
+so: 2
+high,: 2
+like: 2
+a: 2
+diamond: 2
+in: 6
+sky.: 3
+when: 2
+blazing: 1
+sun: 2
+is: 2
+gone,: 1
+he: 2
+nothing: 1
+shines: 1
+upon,: 1
+then: 2
+show: 1
+your: 4
+light,: 1
+all: 1
+night.: 1
+traveller: 2
+dark,: 1
+thanks: 1
+for: 2
+tiny: 2
+spark,: 2
+could: 1
+not: 3
+see: 1
+which: 1
+way: 1
+to: 1
+go,: 1
+if: 1
+did: 1
+twinkle: 1
+so.: 1
+dark: 1
+blue: 1
+sky: 1
+keep,: 1
+and: 2
+often: 1
+through: 1
+my: 1
+curtains: 1
+peep,: 1
+never: 1
+shut: 1
+eye,: 1
+till: 1
+as: 1
+bright: 1
+lights: 1
+dark.: 1
+though: 1
+know: 1
+are,: 1
+star.: 3
